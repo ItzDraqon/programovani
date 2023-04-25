@@ -1,0 +1,13 @@
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\bin\Debug\Grafika.exe.config
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\bin\Debug\Grafika.exe
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\bin\Debug\Grafika.pdb
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\obj\Debug\Grafika.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\obj\Debug\Grafika.DrawinForm.resources
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\obj\Debug\Grafika.Ellipseform.resources
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\obj\Debug\Grafika.Form1.resources
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\obj\Debug\Grafika.Properties.Resources.resources
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\obj\Debug\Grafika.TextToFile.resources
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\obj\Debug\Grafika.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\obj\Debug\Grafika.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\obj\Debug\Grafika.exe
+C:\Users\filip\Desktop\Programovani\seminar-programovani\Lecture\Grafika\Grafika\obj\Debug\Grafika.pdb

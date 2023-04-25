@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Formular</title>
+        <meta charset="windows-1250">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <style>
+            legend {font-family: sans-serif;
+                    font-size: 30px; 
+                    background-color: lightgrey; 
+                    width: 250px; 
+                    text-align: center;
+                    border-width: 4px;
+                    border-style: double}
+            label {color: green; 
+                   vertical-align: top; 
+                   font-weight: bold;}
+            fieldset {margin: 40px; 
+                      padding: 20px;
+                      border-color: green; 
+                      border-width: 5px;
+                      border-style: double}
+            body {background-color: azure}
+        </style>
+    </head>
+    
+    <body>
+        <form method="post" action="https://www.gymvod.cz/sendmail2.php">
+
+<input type="hidden" name="TO" value="stech.ph@volny.cz">
+<input type="hidden" name="SUBJECT" value="dotaznik">
+<input type="hidden" name="OK_PAGE" value="http://www.gymvod.cz">
+<input type="hidden" name="FROM" value="student@gymvod.cz">
+
+            <fieldset>
+                <legend>Formulář</legend>
+                
+                <label for="jmeno">Jméno</label>
+                    <input type="text" name="jmeno" size="18" maxlength="28" value="Tomáš"><br>
+                    
+                <label for="uceni">Chodíte pravidelně do školy?</label>
+                    <input type="checkbox" name="uceni" value="pravidelny" checked><br>
+                    
+                <label for="zazitek">Užil/a jste si karanténu?</label><br>
+                        Ano <input type="radio" value="Ano" name="zazitek"><br>
+                        Ne <input type="radio" value="Ne" name="zazitek"><br>
+                        
+                <label for="povolani">Povolání</label>
+                    <select name="povolani">
+                        <option>Student</option>
+                        <option>Učitel</option>
+                        <option>Jiné˝</option>
+                    </select><br>
+                    
+                <label for="predmet">Nejoblíbenější předmět</label>
+                    <br><textarea cols="20" rows="2" name="predmet"></textarea><br>
+                    
+                <label for="heslo">Heslo</label><br>
+                    <input type="password" name="heslo" size="10" maxlenght="15">
+                    <hr>
+                    <input type="reset" name="vymazat" value="Vymazat">
+                    <input type="submit" name="odeslat" value="Odeslat">
+                    
+            </fieldset>
+        </form>
+    </body>
+</html>
+
+
+       
+       
